@@ -1,0 +1,13 @@
+body {
+   background-image: url('library.jpg');
+}
+
+
+div {
+	background-color: #AAAAAA;
+	padding: 40px;
+	margin:auto;
+	margin-top: 50px;
+	width: 50%;
+	border-radius: 50px;
+}
